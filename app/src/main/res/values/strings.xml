@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ultimate_Bearing_capacity.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="footing_type">Choose a footing type</string>
+
+    <string-array name="footing_type_arrays">
+        <item>Strip</item>
+        <item>Regular</item>
+        <item>Square</item>
+        <item>Circle</item>
+    </string-array>
+</resources>
